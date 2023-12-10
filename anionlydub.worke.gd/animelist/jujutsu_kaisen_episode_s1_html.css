@@ -1,0 +1,32 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#272727; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_53df3ea9 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:80px; background:none;  }
+#container_53df3ea9_padding { margin: 10px; display: block;  }
+#html_39d95503 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:58px; background:none; border: 0px solid #A0A0A0;  }
+#container_110f234 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:83px; background-color:#2D2D2D;  }
+#container_110f234_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+#html_79a43a52 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:100px; background:none; border: 0px solid #A0A0A0;  }
+#html_4b02efee { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:99%; height:12px; background:none; border: 0px solid #A0A0A0;  }
+#container_2256852 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:330px; background-color:#2A3245;  }
+#container_2256852_padding { margin: 10px; display: block;  }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000; font-weight:bold;  }
+.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+.textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
+@media only screen and (max-width: 8000px)
+{
+		#container_53df3ea9 { display:none;  }
+		#html_39d95503 { display:none;  }
+}
+@media only screen and (max-width: 640px)
+{
+		#container_53df3ea9 { display:inline-block;  }
+		#html_39d95503 { display:inline-block;  }
+		#container_110f234 { display:none;  }
+		#html_79a43a52 { display:none;  }
+		#container_2256852 * span { font-size:8pt;  }
+}

@@ -1,0 +1,83 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#button_5ffddb07 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:65px; height:34px; background:none; border: 2px solid #092850;  }
+#button_5ffddb07:hover { border-color:#000000;  }
+#button_5ffddb07:hover span { color:#FFFFFF; }
+#button_efcc983 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:65px; height:34px; background:none; border: 2px solid #092850;  }
+#button_efcc983:hover { border-color:#000000;  }
+#button_efcc983:hover span { color:#FFFFFF; }
+#button_415e8780 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:65px; height:34px; background:none; border: 2px solid #092850;  }
+#button_415e8780:hover { border-color:#000000;  }
+#button_415e8780:hover span { color:#FFFFFF; }
+#button_538a556a { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:65px; height:34px; background:none; border: 2px solid #092850;  }
+#button_538a556a:hover { border-color:#000000;  }
+#button_538a556a:hover span { color:#FFFFFF; }
+#button_44a3a263 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:312px; height:80px; background-color:#FFFFFF; border: 2px solid #595959;  }
+#button_44a3a263:hover { background-color:#A9A9BC; border-color:#000000;  }
+#button_44a3a263:hover span { color:#FFFFFF; }
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_673596fa { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:188px; background-color:#000000;  }
+#container_673596fa_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+#img_72bedb22 { vertical-align: bottom; position:relative; display: inline-block; width:41%; background:none; height:auto;  }
+.textstyle3 { text-align:right; }
+#container_29b270f6 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:54px; background:none;  }
+#container_29b270f6_padding { margin: 10px; display: block;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
+#container_1de45226 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:1053px; background-color:#2D2D2D; border: 1px dotted #404040;  }
+#container_1de45226_padding { margin: 10px; display: block;  }
+#container_6875da66 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:588px; background:none;  }
+#container_6875da66_padding { margin: 10px; display: block;  }
+#container_4d9d4930 { vertical-align: top; position:relative; display: inline-block; width:99%; min-height:266px; background-color:#FFFFFF; background-image: url(../../rc_images/maxresdefault.jpg); background-position:top center; background-size:cover;  }
+#container_4d9d4930_padding { margin: 10px; display: block;  }
+#container_256ac53a { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:131px; background:none;  }
+#container_256ac53a_padding { margin: 10px; display: block;  }
+.textstyle5 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000; font-weight:bold;  }
+.textstyle6 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#FEFFFE; font-weight:bold;  }
+.textstyle7 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+#container_48397563 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:80px; background:none;  }
+#container_48397563_padding { margin: 10px; display: block;  }
+#html_4d8e388c { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:58px; background:none; border: 0px solid #A0A0A0;  }
+#container_6717a948 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:83px; background-color:#2D2D2D;  }
+#container_6717a948_padding { margin: 10px; display: block;  }
+#html_5d844d7d { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:100px; background:none; border: 0px solid #A0A0A0;  }
+#container_351fbf19 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:246px; background-color:#2A3245;  }
+#container_351fbf19_padding { margin: 10px; display: block;  }
+.textstyle8 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000; font-weight:bold;  }
+.textstyle9 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+@media only screen and (max-width: 8000px)
+{
+		#container_48397563 { display:none;  }
+		#html_4d8e388c { display:none;  }
+}
+@media only screen and (max-width: 640px)
+{
+		#button_5ffddb07 { width:40px; height:28px;  }
+		#button_5ffddb07 * span { font-size:8pt;  }
+		#button_efcc983 { width:40px; height:28px;  }
+		#button_efcc983 * span { font-size:8pt;  }
+		#button_415e8780 { width:40px; height:28px;  }
+		#button_415e8780 * span { font-size:8pt;  }
+		#button_538a556a { width:40px; height:28px;  }
+		#button_538a556a * span { font-size:8pt;  }
+		#container_6875da66 { min-height:400px;  }
+		#button_44a3a263 { width:212px; height:80px;  }
+		#container_48397563 { display:inline-block;  }
+		#html_4d8e388c { display:inline-block;  }
+		#container_6717a948 { display:none;  }
+		#html_5d844d7d { display:none;  }
+		#container_351fbf19 * span { font-size:8pt;  }
+}
+@media only screen and (max-width: 400px)
+{
+		#container_673596fa { width:100%; height:100px; min-height:100px;  }
+		#container_4d9d4930 { width:100%; min-height:140px;  }
+		#container_256ac53a { width:100%;  }
+		#container_256ac53a * span { font-size:8pt;  }
+		#button_44a3a263 { width:112px; height:60px;  }
+}

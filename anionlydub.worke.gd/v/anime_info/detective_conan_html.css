@@ -1,0 +1,83 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#button_4407e01 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:65px; height:34px; background:none; border: 2px solid #092850;  }
+#button_4407e01:hover { border-color:#000000;  }
+#button_4407e01:hover span { color:#FFFFFF; }
+#button_70437840 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:65px; height:34px; background:none; border: 2px solid #092850;  }
+#button_70437840:hover { border-color:#000000;  }
+#button_70437840:hover span { color:#FFFFFF; }
+#button_4308f378 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:65px; height:34px; background:none; border: 2px solid #092850;  }
+#button_4308f378:hover { border-color:#000000;  }
+#button_4308f378:hover span { color:#FFFFFF; }
+#button_20425150 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:65px; height:34px; background:none; border: 2px solid #092850;  }
+#button_20425150:hover { border-color:#000000;  }
+#button_20425150:hover span { color:#FFFFFF; }
+#button_494122af { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:312px; height:80px; background-color:#FFFFFF; border: 2px solid #595959;  }
+#button_494122af:hover { background-color:#A9A9BC; border-color:#000000;  }
+#button_494122af:hover span { color:#FFFFFF; }
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_545c98f4 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:188px; background-color:#000000;  }
+#container_545c98f4_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+#img_f0e463b { vertical-align: bottom; position:relative; display: inline-block; width:41%; background:none; height:auto;  }
+.textstyle3 { text-align:right; }
+#container_2905895e { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:54px; background:none;  }
+#container_2905895e_padding { margin: 10px; display: block;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
+#container_5fc9201c { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:1053px; background-color:#2D2D2D; border: 1px dotted #404040;  }
+#container_5fc9201c_padding { margin: 10px; display: block;  }
+#container_21aba73f { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:588px; background:none;  }
+#container_21aba73f_padding { margin: 10px; display: block;  }
+#container_8fcf55c { vertical-align: top; position:relative; display: inline-block; width:99%; min-height:266px; background-color:#FFFFFF; background-image: url(../../rc_images/detective_conan_pictures_ratkxryw39cqn02u_1200x675.jpg); background-position:top center; background-size:cover;  }
+#container_8fcf55c_padding { margin: 10px; display: block;  }
+#container_2673cda7 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:131px; background:none;  }
+#container_2673cda7_padding { margin: 10px; display: block;  }
+.textstyle5 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000; font-weight:bold;  }
+.textstyle6 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#FEFFFE; font-weight:bold;  }
+.textstyle7 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+#container_1b111a1c { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:80px; background:none;  }
+#container_1b111a1c_padding { margin: 10px; display: block;  }
+#html_5a8adb6c { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:58px; background:none; border: 0px solid #A0A0A0;  }
+#container_1de17642 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:83px; background-color:#2D2D2D;  }
+#container_1de17642_padding { margin: 10px; display: block;  }
+#html_22058a2b { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:100px; background:none; border: 0px solid #A0A0A0;  }
+#container_6df79412 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:246px; background-color:#2A3245;  }
+#container_6df79412_padding { margin: 10px; display: block;  }
+.textstyle8 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000; font-weight:bold;  }
+.textstyle9 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+@media only screen and (max-width: 8000px)
+{
+		#container_1b111a1c { display:none;  }
+		#html_5a8adb6c { display:none;  }
+}
+@media only screen and (max-width: 640px)
+{
+		#button_4407e01 { width:40px; height:28px;  }
+		#button_4407e01 * span { font-size:8pt;  }
+		#button_70437840 { width:40px; height:28px;  }
+		#button_70437840 * span { font-size:8pt;  }
+		#button_4308f378 { width:40px; height:28px;  }
+		#button_4308f378 * span { font-size:8pt;  }
+		#button_20425150 { width:40px; height:28px;  }
+		#button_20425150 * span { font-size:8pt;  }
+		#container_21aba73f { min-height:400px;  }
+		#button_494122af { width:212px; height:80px;  }
+		#container_1b111a1c { display:inline-block;  }
+		#html_5a8adb6c { display:inline-block;  }
+		#container_1de17642 { display:none;  }
+		#html_22058a2b { display:none;  }
+		#container_6df79412 * span { font-size:8pt;  }
+}
+@media only screen and (max-width: 400px)
+{
+		#container_545c98f4 { width:100%; height:100px; min-height:100px;  }
+		#container_8fcf55c { width:100%; min-height:140px;  }
+		#container_2673cda7 { width:100%;  }
+		#container_2673cda7 * span { font-size:8pt;  }
+		#button_494122af { width:112px; height:60px;  }
+}

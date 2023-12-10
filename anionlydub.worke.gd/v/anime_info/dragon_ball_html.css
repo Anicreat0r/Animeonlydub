@@ -1,0 +1,84 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#button_7972edd1 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:65px; height:34px; background:none; border: 2px solid #092850;  }
+#button_7972edd1:hover { border-color:#000000;  }
+#button_7972edd1:hover span { color:#FFFFFF; }
+#button_799a412f { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:65px; height:34px; background:none; border: 2px solid #092850;  }
+#button_799a412f:hover { border-color:#000000;  }
+#button_799a412f:hover span { color:#FFFFFF; }
+#button_26e0c1a0 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:65px; height:34px; background:none; border: 2px solid #092850;  }
+#button_26e0c1a0:hover { border-color:#000000;  }
+#button_26e0c1a0:hover span { color:#FFFFFF; }
+#button_5b581fe8 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:65px; height:34px; background:none; border: 2px solid #092850;  }
+#button_5b581fe8:hover { border-color:#000000;  }
+#button_5b581fe8:hover span { color:#FFFFFF; }
+#button_59f80f86 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:312px; height:80px; background-color:#FFFFFF; border: 2px solid #595959;  }
+#button_59f80f86:hover { background-color:#A9A9BC; border-color:#000000;  }
+#button_59f80f86:hover span { color:#FFFFFF; }
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_5e272976 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:188px; background-color:#000000;  }
+#container_5e272976_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+#img_695c110b { vertical-align: bottom; position:relative; display: inline-block; width:41%; background:none; height:auto;  }
+.textstyle3 { text-align:right; }
+#container_3ec44aa2 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:54px; background:none;  }
+#container_3ec44aa2_padding { margin: 10px; display: block;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
+#container_71e4783b { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:1053px; background-color:#2D2D2D; border: 1px dotted #404040;  }
+#container_71e4783b_padding { margin: 10px; display: block;  }
+#container_10809333 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:588px; background:none;  }
+#container_10809333_padding { margin: 10px; display: block;  }
+#container_1579b52a { vertical-align: top; position:relative; display: inline-block; width:99%; min-height:266px; background-color:#FFFFFF; background-image: url(../../rc_images/_d49caafe_b486_42a0_ac25_f96df38a7b7f.jpeg); background-position:center center; background-size:cover;  }
+#container_1579b52a_padding { margin: 10px; display: block;  }
+#container_24e79e6c { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:131px; background:none;  }
+#container_24e79e6c_padding { margin: 10px; display: block;  }
+.textstyle5 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000; font-weight:bold;  }
+.textstyle6 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#FEFFFE; font-weight:bold;  }
+.textstyle7 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
+.textstyle8 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+#container_7c427112 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:80px; background:none;  }
+#container_7c427112_padding { margin: 10px; display: block;  }
+#html_71b2f706 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:58px; background:none; border: 0px solid #A0A0A0;  }
+#container_4df6204e { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:83px; background-color:#2D2D2D;  }
+#container_4df6204e_padding { margin: 10px; display: block;  }
+#html_36e518a8 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:100px; background:none; border: 0px solid #A0A0A0;  }
+#container_5dc15a0d { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:246px; background-color:#2A3245;  }
+#container_5dc15a0d_padding { margin: 10px; display: block;  }
+.textstyle9 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000; font-weight:bold;  }
+.textstyle10 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+@media only screen and (max-width: 8000px)
+{
+		#container_7c427112 { display:none;  }
+		#html_71b2f706 { display:none;  }
+}
+@media only screen and (max-width: 640px)
+{
+		#button_7972edd1 { width:40px; height:28px;  }
+		#button_7972edd1 * span { font-size:8pt;  }
+		#button_799a412f { width:40px; height:28px;  }
+		#button_799a412f * span { font-size:8pt;  }
+		#button_26e0c1a0 { width:40px; height:28px;  }
+		#button_26e0c1a0 * span { font-size:8pt;  }
+		#button_5b581fe8 { width:40px; height:28px;  }
+		#button_5b581fe8 * span { font-size:8pt;  }
+		#container_10809333 { min-height:400px;  }
+		#button_59f80f86 { width:212px; height:80px;  }
+		#container_7c427112 { display:inline-block;  }
+		#html_71b2f706 { display:inline-block;  }
+		#container_4df6204e { display:none;  }
+		#html_36e518a8 { display:none;  }
+		#container_5dc15a0d * span { font-size:8pt;  }
+}
+@media only screen and (max-width: 400px)
+{
+		#container_5e272976 { width:100%; height:100px; min-height:100px;  }
+		#container_1579b52a { width:100%; min-height:140px;  }
+		#container_24e79e6c { width:100%;  }
+		#container_24e79e6c * span { font-size:8pt;  }
+		#button_59f80f86 { width:112px; height:60px;  }
+}

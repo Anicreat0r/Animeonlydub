@@ -1,0 +1,83 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#button_5830792d { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:65px; height:34px; background:none; border: 2px solid #092850;  }
+#button_5830792d:hover { border-color:#000000;  }
+#button_5830792d:hover span { color:#FFFFFF; }
+#button_486908c1 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:65px; height:34px; background:none; border: 2px solid #092850;  }
+#button_486908c1:hover { border-color:#000000;  }
+#button_486908c1:hover span { color:#FFFFFF; }
+#button_7fc8751b { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:65px; height:34px; background:none; border: 2px solid #092850;  }
+#button_7fc8751b:hover { border-color:#000000;  }
+#button_7fc8751b:hover span { color:#FFFFFF; }
+#button_acb85b1 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:65px; height:34px; background:none; border: 2px solid #092850;  }
+#button_acb85b1:hover { border-color:#000000;  }
+#button_acb85b1:hover span { color:#FFFFFF; }
+#button_606a5ad4 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:312px; height:80px; background-color:#FFFFFF; border: 2px solid #595959;  }
+#button_606a5ad4:hover { background-color:#A9A9BC; border-color:#000000;  }
+#button_606a5ad4:hover span { color:#FFFFFF; }
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_4bad1ee1 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:188px; background-color:#000000;  }
+#container_4bad1ee1_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+#img_7a6bb3a5 { vertical-align: bottom; position:relative; display: inline-block; width:41%; background:none; height:auto;  }
+.textstyle3 { text-align:right; }
+#container_281aed1a { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:54px; background:none;  }
+#container_281aed1a_padding { margin: 10px; display: block;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
+#container_22fd341e { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:1053px; background-color:#2D2D2D; border: 1px dotted #404040;  }
+#container_22fd341e_padding { margin: 10px; display: block;  }
+#container_1faa7373 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:588px; background:none;  }
+#container_1faa7373_padding { margin: 10px; display: block;  }
+#container_61dd425e { vertical-align: top; position:relative; display: inline-block; width:99%; min-height:266px; background-color:#FFFFFF; background-image: url(../../rc_images/a23468_1961938577_1592599865.jpg); background-position:top center; background-size:cover;  }
+#container_61dd425e_padding { margin: 10px; display: block;  }
+#container_63670915 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:131px; background:none;  }
+#container_63670915_padding { margin: 10px; display: block;  }
+.textstyle5 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000; font-weight:bold;  }
+.textstyle6 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#FEFFFE; font-weight:bold;  }
+.textstyle7 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+#container_5f67cf61 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:80px; background:none;  }
+#container_5f67cf61_padding { margin: 10px; display: block;  }
+#html_162c31e { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:58px; background:none; border: 0px solid #A0A0A0;  }
+#container_46d4ee2c { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:83px; background-color:#2D2D2D;  }
+#container_46d4ee2c_padding { margin: 10px; display: block;  }
+#html_6e47b73d { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:100px; background:none; border: 0px solid #A0A0A0;  }
+#container_251408b7 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:246px; background-color:#2A3245;  }
+#container_251408b7_padding { margin: 10px; display: block;  }
+.textstyle8 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000; font-weight:bold;  }
+.textstyle9 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+@media only screen and (max-width: 8000px)
+{
+		#container_5f67cf61 { display:none;  }
+		#html_162c31e { display:none;  }
+}
+@media only screen and (max-width: 640px)
+{
+		#button_5830792d { width:40px; height:28px;  }
+		#button_5830792d * span { font-size:8pt;  }
+		#button_486908c1 { width:40px; height:28px;  }
+		#button_486908c1 * span { font-size:8pt;  }
+		#button_7fc8751b { width:40px; height:28px;  }
+		#button_7fc8751b * span { font-size:8pt;  }
+		#button_acb85b1 { width:40px; height:28px;  }
+		#button_acb85b1 * span { font-size:8pt;  }
+		#container_1faa7373 { min-height:400px;  }
+		#button_606a5ad4 { width:212px; height:80px;  }
+		#container_5f67cf61 { display:inline-block;  }
+		#html_162c31e { display:inline-block;  }
+		#container_46d4ee2c { display:none;  }
+		#html_6e47b73d { display:none;  }
+		#container_251408b7 * span { font-size:8pt;  }
+}
+@media only screen and (max-width: 400px)
+{
+		#container_4bad1ee1 { width:100%; height:100px; min-height:100px;  }
+		#container_61dd425e { width:100%; min-height:140px;  }
+		#container_63670915 { width:100%;  }
+		#container_63670915 * span { font-size:8pt;  }
+		#button_606a5ad4 { width:112px; height:60px;  }
+}

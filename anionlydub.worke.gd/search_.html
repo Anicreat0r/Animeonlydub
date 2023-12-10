@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Search Results</title>
+</head>
+<body>
+
+  <header>
+    <h1>Search Results</h1>
+  </header>
+
+  <main>
+    <?php
+      // Get the search query from the URL.
+      $searchQuery = $_GET['q'];
+
+      // Query the database for pages that match the search query.
+      $results = getSearchResults($searchQuery);
+
+      // Display the search results.
+      if (count($results) > 0) {
+        foreach ($results as $result) {
+          echo '<a href="' . $result['url'] . '">' . $result['title'] . '</a><br>';
+        }
+      } else {
+        echo 'No results found.';
+      }
+
+      // Function to get search results from the database.
+      function getSearchResults($searchQuery) {
+        // Connect to the database.
+        $db = new PDO('mysql:host=localhost;dbname=my_database', 'root', '');
+
+        // Prepare the SQL query.
+        $sql = 'SELECT * FROM pages WHERE title LIKE "%:searchQuery%"';
+        $stmt = $db->prepare($sql);
+        $stmt->bindParam(':searchQuery', $searchQuery);
+
+        // Execute the SQL query.
+        $stmt->execute();
+
+        // Return the search results.
+        return $stmt->fetchAll();
+      }
+    ?>
+  </main>
+
+</body>
+</html>	<title></title>
+	<link rel="stylesheet" type="text/css" href="search__html.css">
+</head>
+<body>
+</body>
+</html>

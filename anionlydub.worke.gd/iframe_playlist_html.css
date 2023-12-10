@@ -1,0 +1,32 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#272727; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_1fac06a5 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:80px; background:none;  }
+#container_1fac06a5_padding { margin: 10px; display: block;  }
+#html_5c366bf8 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:58px; background:none; border: 0px solid #A0A0A0;  }
+#container_224955f9 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:83px; background-color:#2D2D2D;  }
+#container_224955f9_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+#html_711f084f { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:100px; background:none; border: 0px solid #A0A0A0;  }
+#html_73dbe1f0 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:12px; background:none; border: 0px solid #A0A0A0;  }
+#container_239169a0 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:246px; background-color:#2A3245;  }
+#container_239169a0_padding { margin: 10px; display: block;  }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000; font-weight:bold;  }
+.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+.textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
+@media only screen and (max-width: 8000px)
+{
+		#container_1fac06a5 { display:none;  }
+		#html_5c366bf8 { display:none;  }
+}
+@media only screen and (max-width: 640px)
+{
+		#container_1fac06a5 { display:inline-block;  }
+		#html_5c366bf8 { display:inline-block;  }
+		#container_224955f9 { display:none;  }
+		#html_711f084f { display:none;  }
+		#container_239169a0 * span { font-size:8pt;  }
+}

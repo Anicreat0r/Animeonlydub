@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+<!DOCTYPE html>
+<html>
+<head>
+<title>AnimeOnlyDub Search</title>
+</head>
+<body>
+<h1>AnimeOnlyDub Search</h1>
+
+<form action="https://amazing-raindrop-c47cf9.netlify.app/" role="search" method="get">
+  <input type="search" name="s" placeholder="Search Animes/Cartoons!" required="" autocomplete="off">
+  <button type="submit">Search</button>
+</form>
+
+<div id="search-results"></div>
+
+<script>
+function displaySearchResults(results) {
+  // Clear the previous search results.
+  document.getElementById('search-results').innerHTML = '';
+
+  // Loop through the search results and add them to the page.
+  for (var i = 0; i < results.length; i++) {
+    var result = results[i];
+
+    var link = document.createElement('a');
+    link.href = result.link;
+    link.textContent = result.title;
+
+    var resultElement = document.createElement('div');
+    resultElement.appendChild(link);
+
+    document.getElementById('search-results').appendChild(resultElement);
+  }
+}
+
+// Perform a search when the user submits the form.
+document.querySelector('form').addEventListener('submit', function(event) {
+  event.preventDefault();
+
+  // Get the search query from the form.
+  var query = document.querySelector('input[name="s"]').value;
+
+  // Perform a search using the AnimeOnlyDub API.
+  fetch('https://amazing-raindrop-c47cf9.netlify.app/search?q=' + query)
+    .then(function(response) {
+      return response.json();
+    })
+    .then(function(results) {
+      // Display the search results on the page.
+      displaySearchResults(results);
+    });
+});
+</script>
+</body>
+</html>	<title></title>
+	<link rel="stylesheet" type="text/css" href="search_html.css">
+</head>
+<body>
+</body>
+</html>
